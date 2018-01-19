@@ -1,0 +1,1 @@
+C:\Users\Setup5a\source\repos\HelloWorld2\HelloWorld2\HelloWorld2.UWP\HelloWorld2.UWP.csproj;x86
